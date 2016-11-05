@@ -1,4 +1,9 @@
 # CodeBook.md - Code book for tidydata.txt
+
+## Tidy data set based on the public data set
+## [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013. 
+
+## Set contains the following data:
 Column Name	| Description
 ------------|------------
 subject_identifier | Unique identifier for each of 30 subjects
