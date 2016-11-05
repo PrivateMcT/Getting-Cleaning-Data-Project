@@ -2,6 +2,7 @@
 ## This repository contains:
 
 **README.md** - this file explaining the contents of the repository
+
 **run_analysis.R** - R script that performs the following steps:
 * Download data file, unzip to single file 
 * Read txt files into data frames
@@ -13,5 +14,7 @@
 * Uses descriptive activity names to name the activities in the data set
 * Appropriately labels the data set with descriptive variable names
 * Create a second, independent tidy data set with the average of each variable grouped by subject and activity
+
 **tidydata.txt** – data file containing the average of each variable grouped by subject and activity
+
 **CodeBook.md** - code book for tidydata.txt
